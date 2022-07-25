@@ -13,6 +13,7 @@ JavaScript bindings for Dear ImGui using Emscripten and TypeScript, modularized 
 ## 核心部分简单示例
 
 [Dear ImGui](https://github.com/ocornut/imgui/blob/master/docs/README.md)
+[ImGui JavaScript+WebGL+Webpack example](https://zhobo63.github.io/imgui-ts/)
 
 ### Hover 样式
 
